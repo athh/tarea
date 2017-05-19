@@ -1,0 +1,24 @@
+.nav-container{
+    padding-top: 25px;
+    padding-left: 50px;
+}
+.footer {
+  /*position: absolute;*/
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
+
+.footer-content {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+.footer-content .text-muted {
+  margin: 20px 50px;
+}
+
+.container-body{
+    margin: 50px 10%;
+}

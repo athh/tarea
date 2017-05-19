@@ -1,0 +1,20 @@
+{
+    "name": "Trippotravel/tarea",
+    "description": "Prueba de conocimientos",
+    "keywords": ["athh"],
+    "authors": [
+        {
+            "name": "Athziri Rodríguez",
+            "email": "athziri.rdgz@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Trippotravel\\tarea\\": "app/src"
+        }
+    }
+}
